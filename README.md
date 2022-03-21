@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @7Seventy0
+- 👋 Hi, I’m Seventy
+
 
 <!---
 7Seventy0/7Seventy0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
